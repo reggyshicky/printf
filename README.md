@@ -1,6 +1,6 @@
 ## PROJECT ON C PROGRAMMING LANGUAGE
 This project was done by:
-reggyshicky
+reggyshicky and
 T-sosthenese
 
 What is printf?
